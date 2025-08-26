@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Cálculo III"
+  author: "M.C. José Ítalo Sánchez Bermúdez"
+  date: "26/8/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
