@@ -4,7 +4,27 @@
     "href": "index.html",
     "title": "Cálculo III",
     "section": "",
-    "text": "1 Información general\nResponder el siguiente exámen diágnostico: https://forms.gle/XEfjz77teV7MhprG8",
+    "text": "1 Información general",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#avisos",
+    "href": "index.html#avisos",
+    "title": "Cálculo III",
+    "section": "1.1 Avisos",
+    "text": "1.1 Avisos\nResponder el siguiente exámen diágnostico: https://forms.gle/XEfjz77teV7MhprG8",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "Cálculo III",
+    "section": "1.2 Contacto",
+    "text": "1.2 Contacto\ncorreo: a219208499@unison.mx\ncelular: 6621783265\nCubículo: Departamento de Matemáticas, edificio 3K-1 cubículo 207 (segundo piso)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
     ]
@@ -13,8 +33,8 @@
     "objectID": "index.html#criterios-de-evaluación",
     "href": "index.html#criterios-de-evaluación",
     "title": "Cálculo III",
-    "section": "1.1 Criterios de evaluación",
-    "text": "1.1 Criterios de evaluación\n60% —- Listas de ejercicios\n40% —- Exámenes\n\n1.1.1 Listas de ejercicios\n\n6 listas en el semestre\nSe entregan en equipos de 3 personas\nDeben estar hechas en computadora\nSe entregarán por Teams\n\n\n\n1.1.2 Exámenes\n\n2 exámenes en el semestre\nTemas: Diferenciación e Integración\nDe ser posible se acomodarán los horarios para que sean 2 horas.",
+    "section": "1.3 Criterios de evaluación",
+    "text": "1.3 Criterios de evaluación\n60% —- Listas de ejercicios\n40% —- Exámenes\n\n1.3.1 Listas de ejercicios\n\n6 listas en el semestre\nSe entregan en equipos de 3 personas\nDeben estar hechas en computadora\nSe entregarán por Teams\n\n\n\n1.3.2 Exámenes\n\n2 exámenes en el semestre\nTemas: Diferenciación e Integración\nDe ser posible se acomodarán los horarios para que sean 2 horas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
     ]
@@ -23,8 +43,18 @@
     "objectID": "index.html#libros",
     "href": "index.html#libros",
     "title": "Cálculo III",
-    "section": "1.2 Libros",
-    "text": "1.2 Libros\n\nCálculo de varias variables - Thomas 12da edición\nVector Calculus - Marsden\nNotas de Cálculo III - Tellechea",
+    "section": "1.4 Libros",
+    "text": "1.4 Libros\n\nCálculo de varias variables - Thomas 12da edición\nVector Calculus - Marsden\nNotas de Cálculo III - Tellechea",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#sala-de-asesorías",
+    "href": "index.html#sala-de-asesorías",
+    "title": "Cálculo III",
+    "section": "1.5 Sala de asesorías",
+    "text": "1.5 Sala de asesorías\nSala de asesorías del Departamento de Matemáticas\nUbicación: Edificio 3K-1 segundo piso.\nhttps://www.instagram.com/asesoriasmatematicasunison/",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Información general</span>"
     ]
